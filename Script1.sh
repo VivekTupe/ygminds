@@ -9,5 +9,6 @@ echo "My name is Khan"
 echo "Welcome to devops"
 echo "We are learning git"
 echo "This batch-18"
+echo "welcome to devops"
 
 
