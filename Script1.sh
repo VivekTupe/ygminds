@@ -10,5 +10,6 @@ echo "Welcome to devops"
 echo "We are learning git"
 echo "This batch-18"
 echo "welcome to devops"
-
+echo "good morning"
+echo "have a good day"
 
